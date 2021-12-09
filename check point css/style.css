@@ -1,0 +1,31 @@
+/*.my_h=class*/
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.my_h {
+    color: blue;
+    font-size: 40px;
+}
+
+p {
+    color: rgb(255, 20, 31);
+    font-size: 40px;
+}
+
+.one {
+    background-color: bisque;
+    padding: 50px 100px;
+    /* color name */
+}
+
+.all {
+    background-image: url("./p5wilmn62vczuw4z7kjy.png");
+}
+
+img {
+    padding: 200px;
+    margin: auto;
+    width: 70%;
+}
